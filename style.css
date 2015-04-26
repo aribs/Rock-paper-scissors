@@ -1,0 +1,8 @@
+body{display:flex; justify-content; center;}
+#screen{max-width: 300px;}
+#pointsLabel{text-align: right; color:#4ceb14; font-size: 22px;}
+#machineButtons{margin-bottom: 10%;}
+#playerButtons{margin-top: 10%;}
+#result{text-align:center;}
+img{max-height: 142px;}
+#images{margin-left: 60px;}
